@@ -1,6 +1,9 @@
 function hasTargetSum(array, target) {
-  // Write your algorithm here
-}
+   
+    if(array[0]+array[5]===target){
+            return true;
+        }
+    }
 
 /* 
   Write the Big O time complexity of your function here
